@@ -1,12 +1,19 @@
 ﻿Brand,Type,Type2,Color,Color2,Bed Temp,Hotend Temp
-extrudr,Biofusion,,Metallic Grey,,225,60
-extrudr,PETG,,Black,,230,80
-JAYO,PLA+,,Black,,205,60
-JAYO,PLA+ Silk,,Red Copper,,210,60
-JAYO,PLA+ Silk,,Light Gold,,210,60
-JAYO,PETG,,Black,,230,80
-JAYO,PETG,,Orange,,230,80
-ERYONE,PLA Matte,,Navy Blue,,215,60
-OVERTURE,PETG,,Rock White,,235,80
-polymaker,PolyLite,PETG,Electric Blue,#0076CF,80,240
-Overture,PETG,,Red,,,
+
+Overture,PLA Matte,,Chocolate,,60,215
+Overture,PLA,,White,#E7EBE5,60,215
+
+Flashforge,PLA,,Burnt Titanium,,60,215
+Geeetech,PLA Silk,,Rainbow,,60,215
+Anycubic,PLA,,Grey,,60,215
+Creality,PLA,,Black,,60,215
+Creality,PLA,CR,Carbon,,60,215
+
+AMOLEN,PLA,Wood,Walnut Wood,,60,215
+
+Bambu,PLA,,Green,10501,60,215
+Bambu,PLA,,Jade White,10100,60,215
+
+Bambu,PETG-HF,,Green,33500,80,240
+Bambu,PETG-HF,,Lake Blue,33601,80,240
+Bambu,PETG-HF,,Dark Gray,33103,80,240
