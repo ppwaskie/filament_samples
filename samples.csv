@@ -1,6 +1,7 @@
 ﻿Brand,Type,Type2,Color,Color2,Bed Temp,Hotend Temp
 
 Overture,PLA Matte,,Chocolate,,60,215
+Overture,PLA Matte,,Brown,,60,215
 Overture,PLA,,White,#E7EBE5,60,215
 
 Flashforge,PLA,,Burnt Titanium,,60,215
@@ -8,8 +9,16 @@ Flashforge,PLA-HS,,Ruby Red,,60,215
 
 Geeetech,PLA Silk,,Rainbow,,60,215
 Anycubic,PLA,,Grey,,60,215
+
 Creality,PLA,,Black,,60,215
+Creality,PLA,,White,,60,215
+Creality,PLA,,Gray,#7A7C7D,60,215
+Creality,PLA,,Red,#C32D30,60,215
+Creality,PLA,,Blue,#0081BF,60,215
+Creality,PLA,,Rainbow,,60,215
 Creality,PLA,CR,Carbon,,60,215
+Creality,PLA-HS,,Orange,,60,215
+Creality,PLA-HS,,Green,,60,215
 
 AMOLEN,PLA,Wood,Walnut Wood,,60,215
 
