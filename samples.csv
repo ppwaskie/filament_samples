@@ -30,13 +30,16 @@ Bambu,PLA,,Blue,10601,60,215
 Bambu,PLA,,Cyan,10603,60,215
 Bambu,PLA,,Yellow,10400,60,215
 Bambu,PLA,,Black,10101,60,215
-Bambu,PLA,,Pkn Orange,10301,60,215
+Orange,Bambu,PLA,Pumpkin,10301,60,215
 Bambu,PLA,,Red,10200,60,215
 Bambu,PLA,,Magenta,10202,60,215
 Bambu,PLA,,Purple,10700,60,215
+Bambu,PLA,,Beige,10201,60,215
 
 Bambu,PLA Matte,,Dark Red,11202,60,215
+Orange,Bambu,PLA Matte,Mandarin,11300,60,215
 
 Bambu,PETG-HF,,Green,33500,80,240
 Bambu,PETG-HF,,Lake Blue,33601,80,240
 Bambu,PETG-HF,,Dark Gray,33103,80,240
+Bambu,PETG-HF,,Blue,33600,80,240
