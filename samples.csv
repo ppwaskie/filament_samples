@@ -40,6 +40,8 @@ Bambu,PLA,,Pink,10203,60,215
 Bambu,PLA,,Purple,10700,60,215
 Bambu,PLA,,Beige,10201,60,215
 
+Bambu,PLA PETG,Support,Nature,65102,60,215
+
 Bambu,PLA Matte,,Dark Red,11202,60,215
 Bambu,PLA Matte,,Ivory White,11100,60,215
 Orange,Bambu,PLA Matte,Mandarin,11300,60,215
@@ -54,9 +56,11 @@ Bambu,PETG-HF,,Orange,33300,80,240
 Bambu,PETG-HF,,Yellow,33400,80,240
 Bambu,PETG-HF,,Lime Green,33501,80,240
 Green,Bambu,PETG-HF,Forest,33502,80,240
-Bambu,PETG-HF,,Forest Green,33502,80,240
 Bambu,PETG-HF,,Black,33102,80,240
 Bambu,PETG-HF,,Red,33200,80,240
+
+Pink,Bambu,PETG,Translucent,32200,80,240
+Purple,Bambu,PETG,Translucent,32700,80,240
 
 Bambu,TPU,AMS,Black,53101,0,230
 Bambu,TPU,AMS,Gray,53102,0,230
