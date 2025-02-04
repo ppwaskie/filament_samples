@@ -65,3 +65,9 @@ Purple,Bambu,PETG,Translucent,32700,80,240
 
 Bambu,TPU,AMS,Black,53101,0,230
 Bambu,TPU,AMS,Gray,53102,0,230
+
+Bambu,ASA,,White,45100,100,270
+Bambu,ASA,,Black,45101,100,270
+Bambu,ASA,,Gray,45102,100,270
+Bambu,ASA,,Red,45200,100,270
+Bambu,ASA,,Blue,45600,100,270
