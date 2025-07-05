@@ -85,7 +85,9 @@ Bambu,ASA,,Blue,45600,100,270
 Bambu,PC,,Clear Black,60102,100,270
 Bambu,PC,,Transparent,60103,100,270
 
-Green,Bambu,ABS,Bambu,40500,100,270
+Bambu,ABS,,Green,40500,100,270
+Bambu,ABS,,Red,40200,100,270
 Bambu,ABS,,Black,40101,100,270
 Bambu,ABS,,Orange,40300,100,270
 Bambu,ABS,,Silver,40102,100,270
+Bambu,ABS,Support,Nature,66100,100,270
