@@ -1,2 +1,4 @@
 *.3mf
 Bambu/
+.DS_Store
+stl/.DS_Store
