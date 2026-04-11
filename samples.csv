@@ -24,8 +24,15 @@ Creality,PLA,,Red,#C32D30,60,215
 Creality,PLA,,Blue,#0081BF,60,215
 Creality,PLA,,Rainbow,,60,215
 Creality,PLA,CR,Carbon,,60,215
-Creality,PLA-HS,,Orange,,60,215
-Creality,PLA-HS,,Green,,60,215
+Creality,Hyper PLA,,Orange,#FB7B04,60,215
+Creality,Hyper PLA,,Green,#76B16D,60,215
+Creality,Hyper PLA,,White,#DEE4E1,60,215
+Creality,Hyper PLA,,Black,#25282A,60,215
+Creality,Hyper PLA,,Grey,#7A7C7C,60,215
+Creality,Hyper PLA,,Blue,#006FD6,60,215
+Creality,Hyper PLA,,Yellow,#FFFF00,60,215
+Creality,Hyper PLA,,Purple,#B0347E,60,215
+Creality,Hyper PLA,,Red,#C32E2F,60,215
 Creality,PLA Silk,CR,Rainbow,,60,215
 
 Creality,PETG,CR,Transparent,,80,240
